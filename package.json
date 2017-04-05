@@ -1,0 +1,22 @@
+{
+  "name": "johnny-five-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "demo-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakehelme/johnny-five-demos.git"
+  },
+  "author": "Jake Helme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakehelme/johnny-five-demos/issues"
+  },
+  "homepage": "https://github.com/jakehelme/johnny-five-demos#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.6"
+  }
+}
